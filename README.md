@@ -1,4 +1,16 @@
-### Hi there 👋
+👋 Hi, I’m @Ayush_Sharma
+ 
+ 
+👀I’m interested in Software Technology 
+ 
+ 
+🌱 I’m currently learning : Python, C++, Java😎
+
+
+
+📫 How to reach me: Instagram: https://www.instagram.com/game_changer_mahi07/   ; Twitter : https://twitter.com/ping_ayush 
+ 
+
 
 <!--
 **pingayush/pingayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
