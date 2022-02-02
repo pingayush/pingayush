@@ -8,7 +8,11 @@
 
 
 
-📫 How to reach me: Instagram: https://www.instagram.com/game_changer_mahi07/   ; Twitter : https://twitter.com/ping_ayush 
+📫 How to reach me: 
+
+Instagram: https://www.instagram.com/game_changer_mahi07/
+
+Twitter : https://twitter.com/ping_ayush 
  
 
 
