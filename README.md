@@ -10,9 +10,16 @@
 
 📫 How to reach me: 
 
-Instagram: https://www.instagram.com/game_changer_mahi07/
+LinkedIn: https://www.linkedin.com/in/pingayush/
 
-Twitter : https://twitter.com/ping_ayush 
+Instagram: https://www.instagram.com/ping_ayush/
+
+Twitter : https://twitter.com/ping_ayush
+
+Hacker Rank: https://www.hackerrank.com/pingayush?hr_r=1
+
+GreekforGeeks: https://auth.geeksforgeeks.org/user/pingayush/profile
+
  
 
 
@@ -25,6 +32,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C++ and Java
 
-- 📫 How to reach me: Instagram: https://www.instagram.com/game_changer_mahi07/   , Twitter : https://twitter.com/ping_ayush 
+- 📫 How to reach me: Instagram: 
+
+LinkedIn: https://www.linkedin.com/in/pingayush/
+
+Instagram: https://www.instagram.com/ping_ayush/
+
+Twitter : https://twitter.com/ping_ayush
+
+Hacker Rank: https://www.hackerrank.com/pingayush?hr_r=1
+
+GreekforGeeks: https://auth.geeksforgeeks.org/user/pingayush/profile
+
 -->
 <a href="https://app.daily.dev/pingayush"><img src="https://api.daily.dev/devcards/df3bbd1f857848ccadf8081df174faa3.png?r=w6d" width="400" alt="Ayush Kumar Sharma's Dev Card"/></a>
