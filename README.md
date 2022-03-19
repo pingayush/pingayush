@@ -12,7 +12,7 @@
 
 LinkedIn: https://www.linkedin.com/in/pingayush/
 
-Instagram: https://www.instagram.com/ping_ayush/
+Instagram: https://www.instagram.com/ping__ayush/
 
 Twitter : https://twitter.com/ping_ayush
 
