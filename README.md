@@ -20,6 +20,8 @@ Hacker Rank: https://www.hackerrank.com/pingayush?hr_r=1
 
 GreekforGeeks: https://auth.geeksforgeeks.org/user/pingayush/profile
 
+Quora : https://www.quora.com/profile/Ayush-Kumar-Sharma-44
+
  
 
 
