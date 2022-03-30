@@ -27,7 +27,8 @@ StackOverflow : https://stackoverflow.com/users/18537230/ayush-sharma
 Quora : https://www.quora.com/profile/Ayush-Kumar-Sharma-44
 
  
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pingayush" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pingayush?trk=profile-badge">Ayush Kumar Sharma</a></div>
+              
 
 <!--
 **pingayush/pingayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
