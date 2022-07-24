@@ -20,7 +20,7 @@ HackerEarth : https://www.hackerearth.com/@pingayush
 
 Hacker Rank : https://www.hackerrank.com/pingayush?hr_r=1
 
-GreekforGeeks : https://auth.geeksforgeeks.org/user/pingayush/profile
+GeekforGeeks : https://auth.geeksforgeeks.org/user/pingayush/profile
 
 StackOverflow : https://stackoverflow.com/users/18537230/ayush-sharma
 
