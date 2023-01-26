@@ -27,11 +27,7 @@
 [![](https://visitcount.itsvg.in/api?id=pingayush&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pingayush" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pingayush?trk=profile-badge">Ayush Kumar Sharma</a></div>
-
-
- 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pingayush" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pingayush?trk=profile-badge">Ayush Kumar Sharma</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="pingayush" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pingayush?trk=profile-badge">Ayush Kumar Sharma</a></div>
               
 
 
